@@ -32,8 +32,6 @@ Implement more bearing designs! There are many cool bearings out there for speci
 
 # To Do
 - [ ] Add links to AMF files for starter bearing
-- [ ] Design tolerance test
-- [ ] Design thrust bearing
 - [ ] Add walkthrough with screenshots for design files
 
 # Acknowledgments
