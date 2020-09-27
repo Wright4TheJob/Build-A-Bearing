@@ -7,7 +7,7 @@ Many people have demonstrated 3D printing complete ball bearings using soluble s
 3D printing races which can be filled with mass-manufactured balls creates relatively smooth-running bearings without requiring expensive materials or tooling, other than a 3D printer. In addition, these bearings can be made at larger sizes where industrial bearings are prohibitively expensive.
 
 # The Project
-This project holds fully parametric design files for a variety of types of 3D-print-ready bearings. These files can be modified to the size and shape you need and tuned to match your printer's capabilities. The bearings are modeled in [FreeCAD](link: https://www.freecadweb.org/) and are licensed for you to use as you please on your next project.
+This project holds fully parametric design files for a variety of types of 3D-print-ready bearings. These files can be modified to the size and shape you need and tuned to match your printer's capabilities. The bearings are modeled in @FreeCAD ([Official Website](https://www.freecadweb.org/)) and are licensed for you to use as you please on your next project.
 
 # How to use this project
 If you want to dive right in and try printing a bearing, this is a simple and small one to start with. It uses 6mm Airsoft BBs commonly available in sporting stores and does not add any compensation for additional clearance or pre-compression on the balls.
