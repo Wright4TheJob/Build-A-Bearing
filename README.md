@@ -20,7 +20,7 @@ A walkthrough of the settings for each bearing is available along with the desig
 
 There are pre-exported files ready for slicing in common sizes for each type of bearing if you would rather use the pre-generated files. Files are named according to their type and size. The first two digits of the number are the inner diameter in millimeters, and the last two digits are the outer diameter in millimeters.
 
-For quieter bearing operation, some lubrication may be helpful. Petroleum jelly has worked well for me at low speeds.
+For assembly, all the bearings include a circular cut on the inner and outer races. After printing is complete, align these two cuts and insert the initial balls. Distribute the initial balls around the perimeter to hold the inner race in place while the rest of the balls are inserted. Future bearings may have a split inner race, held together with fasteners, to eliminate the cutout and have smoother operation. For quieter bearing operation, some lubrication may be helpful. Petroleum jelly has worked well for me at low speeds.
 
 # Bearing Types
 Ball Bearing:
